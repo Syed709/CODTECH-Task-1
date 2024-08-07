@@ -1,12 +1,12 @@
-### **Name:** E MOUNIKA
+### **Name:** BS SyedSab Vali
 ### **Company:** CODTECH IT SOLUTIONS
-### **ID:** CT6WDS1199
+### **Intern ID:** CT6CC1052
 ### **Domain:** CLOUD COMPUTING
-### **Duration:** JULY to AUGUST 2024
+### **Duration:** JULY 5th to AUGUST 20th 2024
 ### **Mentor:** Neela Santhosh kumar
 
 ## Overview of the Project
-### Project: BUILDING A CHAT APPLICATION WITH FIREBASE
+### Project: Building A Chat Application With Firebase
 **Project Overview**
 ### 1. Project Setup
 Initialize Firebase Project: Set up a new project in the Firebase console.
@@ -71,21 +71,9 @@ Deploy to Firebase Hosting:
 Run firebase deploy to deploy your application to Firebase Hosting.
 
 
-chat-app/
-├── .firebaserc
-├── firebase.json
-├── database.rules.json
-├── public/
-│   ├── index.html
-│   ├── style.css
-│   └── app.js
-└── other-files/
-
-
-
-
 ## CONCLUSION
 This setup provides a basic real-time chat application using Firebase. You can further enhance it by adding features like user profiles, private messaging, and more.
+It will ensure you to experience with clear activities in the chat application.
 
 
 
